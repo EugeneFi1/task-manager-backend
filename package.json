@@ -1,0 +1,15 @@
+{
+  "name": "task-manager-backend",
+  "version": "1.0.0",
+  "description": "task manager backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server/controller.js"
+  },
+  "author": "EugeneFi1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
