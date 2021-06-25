@@ -10,6 +10,12 @@
   "author": "EugeneFi1",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "typescript": "~4.0.2",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "14.15.0",
+    "npm": "6.14.8"
   }
 }
